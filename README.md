@@ -1,5 +1,3 @@
-Aqui está um modelo de `README.md` para o seu repositório:
-
 ```markdown
 # Desafio de Projeto - Infraestrutura como Código: Provisionamento de Servidor Web Apache
 
